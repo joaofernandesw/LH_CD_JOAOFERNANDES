@@ -27,8 +27,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/joaofernandesw/LH_CD_JOAOFERNANDES](https://github.com/joaofernandesw/LH_CD_JOAOFERNANDES)
-    cd LH_CD_JOAOFERNANDES
+    git clone https://github.com/joaofernandesw/LH_CD_JOAOFERNANDES.git
     ```
 
 2.  **Instale as dependências:**
