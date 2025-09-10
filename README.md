@@ -10,7 +10,7 @@ O projeto está organizado da seguinte forma:
 
 -   **/data**: Contém os datasets utilizados.
     -   `desafio_indicium_imdb.csv`: O dataset original fornecido.
-    -   `dataset-final.csv`: O dataset limpo e pré-processado, pronto para a modelagem.
+    -   `dataset-final.csv`: O dataset pronto para a modelagem.
       
 -   **/models**: Armazena o modelo de machine learning treinado e salvo.
     -   `random_forest_imdb.pkl`: Modelo de regressão para prever a nota do IMDB.
